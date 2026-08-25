@@ -32,7 +32,7 @@ This repository is organized to separate the raw data, visual assets, and presen
 
 ## 📷 Dashboard Preview
 *(A live preview of the interactive dashboard)*
-![Dashboard Preview](Dashboard%20Snippets/Dashboard%201.png)
+![Dashboard Preview](Dashboard%20Snippets/SS1.png)
 
 ## 👨‍💻 Contributors
 * **Roshan** - Backend Architecture & Data Modeling
